@@ -17,7 +17,7 @@ I am learning _**Python**_ and building 10 projects Right now
 - [x] Rock Paper Scissors (GAME)
 - [x] Password Generator (APP)
 - [x] Alarm Clock (APP)
-- [ ] Quiz (GAME)
+- [x] Quiz (GAME)
 - [ ] Tic Tac Toe (GAME)
 - [ ] Desktop Notifier App (APP)
 - [ ] Number Guessing (GAME)
