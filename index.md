@@ -22,5 +22,5 @@ I am learning _**Python**_ and building 10 projects Right now
 - [x] Alarm Clock (APP)
 - [x] Quiz (GAME)
 - [ ] Tic Tac Toe (GAME)
-- [ ] Desktop Notifier App (APP)
-- [ ] Number Guessing (GAME)
+- [x] Desktop Notifier App (APP)
+- [x] Number Guessing (GAME)
