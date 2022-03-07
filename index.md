@@ -9,7 +9,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ![This is an image](https://github.com/someone20dz/someone20dz.github.io/blob/main/images/142403261_247106886853029_1187238193825160094_n.jpg?raw=true)
 
-I am learning: _**Python**_ **|** _**HTML**_ **|** _**CSS**_
+I am learning: _**Python**_  _**HTML**_  _**CSS**_
 
 _**Built Apps:**_
 
